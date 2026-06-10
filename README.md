@@ -1,8 +1,10 @@
 # Yemi Oniwinde
 
-**Quantitative analyst** building at the intersection of systematic investment research and data engineering.
+**Quantitative analyst** — equity factor research, portfolio construction, systematic macro.
 
-Currently at [Tradeweb](https://www.tradeweb.com) (London) — fixed income market infrastructure, cross-asset data, execution analytics. Transitioning toward buy-side quantitative research with a focus on equity factor models and portfolio construction.
+At [Tradeweb](https://www.tradeweb.com) (London): fixed income market infrastructure, cross-asset
+execution analytics, large-scale financial data pipelines. Building a buy-side quant research
+portfolio targeting systematic equity and multi-asset strategies.
 
 ---
 
@@ -21,19 +23,13 @@ Currently at [Tradeweb](https://www.tradeweb.com) (London) — fixed income mark
 ```python
 profile = {
     "education":   ["Chemical Engineering (BEng)", "FinTech (MSc)"],
-    "credentials": ["CQF (in progress)", "IMC"],
+    "credentials": ["CQF (quantitative finance, in progress)", "IMC"],
     "stack":       ["Python", "pandas", "SQL", "Spark", "Snowflake"],
     "domain":      ["Fixed income", "Equity factors", "Portfolio construction"],
     "focus":       "Systematic / quantamental buy-side research",
     "location":    "London → New York",
 }
 ```
-
----
-
-### Interests
-
-Quantamental investing · Factor research · Risk modelling · Systematic macro · Niche fragrance · Photography
 
 ---
 
